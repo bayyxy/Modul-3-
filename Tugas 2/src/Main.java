@@ -31,9 +31,7 @@ public class Main {
                     Lpersegi(scanner);
                 } else if (pilihanBangun == 2) {
                     Lpersegipanjang(scanner);
-                } else if (pilihanBangun == 3) {
-                    Llingkaran(scanner);
-                } else {
+                }  else {
                     System.out.println("Pilihan bangun datar tidak valid.");
                 }
 
